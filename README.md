@@ -1,0 +1,2 @@
+# AppQuanLyBanHang
+Mobile
